@@ -6,9 +6,15 @@
 
 <br/>
 <p>
-✨<b>Duration of study :</b> 2022.07 ~ 2022.12<br/>
-✨<b>Lecture url :</b> nomard corder react master _ clone coding<br/>
+✨<b>Duration of study :</b> 2022.07 ~ 2022.12<br/><br/>
+✨<b>Lecture url :</b> nomard corder react master _ clone coding<br/><br/>
   <a href="https://nomadcoders.co/react-for-beginners/lobby" target="_blank"><img src="https://img.shields.io/badge/React-movie_app-fff?style=for-the-v=badge&logo=React&logoColor=fff"/></a> <a href="https://nomadcoders.co/react-masterclass/lobby" target="_blank"><img src="https://img.shields.io/badge/React-master_class-fff?style=for-the-v=badge&logo=React&logoColor=fff"/></a><br/>
-✨<b>Skill :</b><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+✨<b>Skill :</b><br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 </p>
+
+<br/>
+<br/>
+###### Language Card<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEEHYUNKEEM&layout=compact)](https://github.com/JEEHYUNKEEM/github-readme-stats)
